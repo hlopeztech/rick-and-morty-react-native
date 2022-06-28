@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rick-and-marty",
-    "slug": "rick-and-marty",
+    "name": "rick-and-morty",
+    "slug": "rick-and-morty",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
